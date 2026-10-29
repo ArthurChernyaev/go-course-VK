@@ -1,0 +1,10 @@
+*.exe
+*.out
+*.test
+/bin/
+vendor/
+go.work
+go.work.sum
+.idea/
+.vscode/
+.DS_Store
